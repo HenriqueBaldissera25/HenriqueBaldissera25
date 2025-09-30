@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**HenriqueBaldissera25/HenriqueBaldissera25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me :scream:
 
-Here are some ideas to get you started:
+My name is Henrique Rodrigues Baldissera, I am an IT student, I work at Verlin IT Solutions in the commercial sector
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time I like to play CS2, watch Formula 1, play table tennis and play video games
+
+Would you like to find me?
+
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/arielfelippi)](https://instagram.com/arielfelippi)
+
+
